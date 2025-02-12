@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @breyolinfebi
-- 👀 My interest is coding
-- 🌱 I’m currently a final year B-tech Student
-- 💞️ Here, I will be posting my project codes
+- 👀 My interests are web development, data science
+- 🌱 I’m currently working as a software developer
+- 💞️ Here, I will be posting my projects
 - 📫 Reach me @breyolinfebi@gmail.com
 
 <!---
